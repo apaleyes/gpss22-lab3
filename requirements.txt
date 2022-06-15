@@ -1,0 +1,5 @@
+emukit>=0.4.9
+numpy>=1.14.5
+GPy>=1.10.0
+matplotlib
+jupyter
